@@ -1,0 +1,5 @@
+var
+n;
+begin
+n:=5;
+end.
